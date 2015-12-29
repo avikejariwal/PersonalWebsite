@@ -1,0 +1,24 @@
+{
+  "name": "anirudh-personal-website",
+  "version": "1.0.0",
+  "description": "Anirudh Narayan's Personal Website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ejs": "^2.3.3",
+    "express": "4.13.3"
+    },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anirudhNarayan/PersonalWebsite.git"
+  },
+  "author": "Anirudh Narayan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anirudhNarayan/PersonalWebsite/issues"
+  },
+  "homepage": "https://github.com/anirudhNarayan/PersonalWebsite#readme"
+}
